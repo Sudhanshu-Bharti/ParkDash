@@ -39,6 +39,48 @@ Implementing intelligent and real-time governance for Indian street parking in r
 ## Understanding the Architecture : 
 ![2sih_22 (5) jpeg](https://github.com/Shahsmit075/ParkDash/assets/119691937/ef8e8f6b-8182-459d-b99d-3d14e7480926)
 
+Introducing the Future of Parking: Your Ultimate Automated Parking Portal
+
+Are you tired of endlessly circling the block in search of parking or dealing with parking hassles? Look no further! Our cutting-edge Automated Parking Portal revolutionizes the way you find, book, and manage parking spaces, offering unparalleled convenience and security for both clients and sellers/renters.
+
+*Client-Friendly Mobile and Web Interface:*
+- Seamlessly switch between our mobile and web interfaces, designed to cater to your unique needs.
+- Hassle-free registration by uploading your personal details, ensuring a smooth user experience.
+
+*Effortless Parking Booking:*
+- Instantly locate available parking spaces nearby by entering your location or simply turning on GPS.
+- Browse through parking options, complete with prices and real-time availability.
+- Choose between instant booking or pre-booking to secure your spot.
+- Set your parking duration, and you're all set! Your parking space is reserved.
+
+*Top-Notch Security with Blockchain:*
+- Rest easy knowing that your personal data is stored on a protected blockchain server, ensuring the utmost security and privacy.
+
+*Simple Seller/Owner Listing:*
+- Sellers and property owners can easily list their parking spaces by providing essential details.
+- Our verification process ensures the quality of listed spaces, and owners can start renting them out.
+
+*Safety Standards and Surveillance:*
+- Serious about security? All major parking space owners are required to maintain security standards, including CCTV cameras, for peace of mind.
+
+*Automated Parking System:*
+- Our automated system takes parking to the next level. Upon entering, AI-powered cameras automatically detect your vehicle's number plate.
+- A unique code is generated and sent to both the client and seller devices.
+- The client simply scans the code, and voila! The parking timer starts.
+- All CCTV footage and daily data are securely stored on local servers and local storage, with only critical data passing through our main server to our primary storage.
+- Integrated Iot Parking Gateway during Entry and Exit , automated with the help of QR (quick-response) code.
+
+*State-of-the-Art Communication and Security:*
+- We ensure secure communication between web/mobile interfaces using RESTful APIs.
+- Robust JWT(Json WEb Tokens) authentication guarantees the confidentiality of your data.
+- Online payments are made easy and secure with Stripe, the industry leader in payment gateways.
+
+*Reliable Hosting and Databases:*
+- Our infrastructure is hosted on AWS cloud, ensuring the highest reliability and performance.
+- MongoDB powers our primary storage database, while MySQL handles local storage.
+
+This is the future of parking – a smart, secure, and convenient solution designed to simplify your life. Say goodbye to parking woes and embrace the next-generation Automated Parking Portal. Join us today and experience parking like never before!
+
 ## Idea/Approach Details :
 **(1) Providing Optimal Pricings :**<br> By using Deep Q-Networks (DQN) or Proximal Policy Optimization (PPO) algorithms to adaptively optimize pricing strategies by engaging with the parking environment, responding to rewards tied to revenue and occupancy rates, all in real-time.<br>
 
