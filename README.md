@@ -34,8 +34,6 @@ Implementing intelligent and real-time governance for Indian street parking in r
 ![techstacks](https://github.com/Shahsmit075/ParkDash/assets/119691937/4b5f3105-2f52-47cf-aa2f-06e8c4892256)
 <!-- GETTING STARTED -->
 
-### Youtube Link :  
-
 ## Understanding the Architecture : 
 ![2sih_22 (5) jpeg](https://github.com/Shahsmit075/ParkDash/assets/119691937/ef8e8f6b-8182-459d-b99d-3d14e7480926)
 
@@ -109,12 +107,14 @@ Introducing an Admin-User Review System to ensure accountability from both sides
  **[3] Sensor Technology and QR Code Payment Integration:** We employ sensor technology at entry and exit points to streamline parking. As vehicles enter and exit, sensors detect their presence, automatically recording entries and exits. Also, we’ve integrated QR code support for swift payments. Users receive a QR code upon exit, which they can easily scan with their smartphones for instant payment processing.<br>
 
 ## Future Aspects 
-
-
+**[1] EV charging infrastructure integrated into parking facilities to support the growing trend of electric vehicles.
+**[2] Integration with IoT (Internet of Things) technology to create a network of connected sensors and devices that can monitor and manage parking spaces in real-time.
+**[3] Enhanced security measures, including surveillance and emergency response systems.
 
 
 <!-- CONTACT -->
 ## Contributors
 
 - [@Shahsmit075](https://github.com/Shahsmit075) - shahsmit075@gmail.com <br>
+- [@Sudhanshu-Bharti](https://github.com/Sudhanshu-Bharti) - shhubham01legend@gmail.com <br>
 Project Status : Ongoing <br>
