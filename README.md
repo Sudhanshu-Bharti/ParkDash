@@ -116,5 +116,5 @@ Introducing an Admin-User Review System to ensure accountability from both sides
 ## Contributors
 
 - [@Shahsmit075](https://github.com/Shahsmit075) - shahsmit075@gmail.com <br>
-- [@Sudhanshu-Bharti](https://github.com/Sudhanshu-Bharti) - shhubham01legend@gmail.com <br>
+- [@Sudhanshu-Bharti](https://github.com/Sudhanshu-Bharti) - shubham01legend@gmail.com <br>
 Project Status : Ongoing <br>
